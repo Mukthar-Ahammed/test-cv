@@ -1,0 +1,11 @@
+.new-page {
+  background-color: #020F14;
+  min-height: 100vw;
+  width: 100%;
+ 
+}
+ 
+
+.new-page-content {
+  padding: 2rem;
+}
